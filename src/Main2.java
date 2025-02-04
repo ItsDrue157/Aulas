@@ -5,7 +5,7 @@ public class Main2 {
 
         int ano = 2022;
         System.out.println(ano);
-        boolean incluidoNoPlano = false;
+
 
 
 
